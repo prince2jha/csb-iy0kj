@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://prince2jha.github.io/csb-iy0kj/static/css/main.b87e5a40.chunk.css",
+    "main.js": "https://prince2jha.github.io/csb-iy0kj/static/js/main.8e8f5ab9.chunk.js",
+    "main.js.map": "https://prince2jha.github.io/csb-iy0kj/static/js/main.8e8f5ab9.chunk.js.map",
+    "runtime-main.js": "https://prince2jha.github.io/csb-iy0kj/static/js/runtime-main.ad6dfe77.js",
+    "runtime-main.js.map": "https://prince2jha.github.io/csb-iy0kj/static/js/runtime-main.ad6dfe77.js.map",
+    "static/js/2.09e68d3b.chunk.js": "https://prince2jha.github.io/csb-iy0kj/static/js/2.09e68d3b.chunk.js",
+    "static/js/2.09e68d3b.chunk.js.map": "https://prince2jha.github.io/csb-iy0kj/static/js/2.09e68d3b.chunk.js.map",
+    "index.html": "https://prince2jha.github.io/csb-iy0kj/index.html",
+    "static/css/main.b87e5a40.chunk.css.map": "https://prince2jha.github.io/csb-iy0kj/static/css/main.b87e5a40.chunk.css.map",
+    "static/js/2.09e68d3b.chunk.js.LICENSE.txt": "https://prince2jha.github.io/csb-iy0kj/static/js/2.09e68d3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad6dfe77.js",
+    "static/js/2.09e68d3b.chunk.js",
+    "static/css/main.b87e5a40.chunk.css",
+    "static/js/main.8e8f5ab9.chunk.js"
+  ]
+}
